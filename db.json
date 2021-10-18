@@ -2,53 +2,13 @@
     "users": [
         {
             "id": 1,
-            "username": "tkenwyn0",
-            "password": "1Kvb1ivQzl"
+            "username": "Nikola12",
+            "password": "aaabbb"
         },
         {
             "id": 2,
-            "username": "mrehorek1",
-            "password": "J2fg8sF9l4d"
-        },
-        {
-            "id": 3,
-            "username": "csendall2",
-            "password": "z15ZqsZ"
-        },
-        {
-            "id": 4,
-            "username": "dbloxsom3",
-            "password": "zG1S95dFAR"
-        },
-        {
-            "id": 5,
-            "username": "ngegg4",
-            "password": "z8iB4PC"
-        },
-        {
-            "id": 6,
-            "username": "gnorway5",
-            "password": "cFwxYW"
-        },
-        {
-            "id": 7,
-            "username": "loldfieldcherry6",
-            "password": "JNG9nqbu8D30"
-        },
-        {
-            "id": 8,
-            "username": "tgregorin7",
-            "password": "z4zHUgfeXQ"
-        },
-        {
-            "id": 9,
-            "username": "rgoodliff8",
-            "password": "1whKOMoE5r"
-        },
-        {
-            "id": 10,
-            "username": "sbourner9",
-            "password": "AGLq1zeOMAt3"
+            "username": "AnjaVida",
+            "password": "1234"
         }
     ]
 }
